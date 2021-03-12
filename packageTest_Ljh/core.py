@@ -1,7 +1,7 @@
 import weakref
 import numpy as np
 import contextlib
-import dezero
+import packageTest_Ljh
 
 
 class Variable:
